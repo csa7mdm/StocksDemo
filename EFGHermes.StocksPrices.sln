@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EFGHermes.StocksPrices.Web", "EFGHermes.StocksPrices.Web", "{5C4D17A0-2BCD-4279-81B0-AA2A657B4DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFGHermes.StocksPrice.Web", "EFGHermes.StocksPrice.Web\EFGHermes.StocksPrice.Web.csproj", "{94836937-AA0B-4402-B8C3-C843FE883400}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EFGHermes.StocksPrices.WCF", "EFGHermes.StocksPrices.WCF", "{F5801324-95A6-4600-8902-767AF1B961DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFGHermes.StocksPrices.WCF", "EFGHermes.StocksPrices.WCF\EFGHermes.StocksPrices.WCF.csproj", "{11225775-DB45-4523-975F-7090D147CAD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94836937-AA0B-4402-B8C3-C843FE883400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94836937-AA0B-4402-B8C3-C843FE883400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94836937-AA0B-4402-B8C3-C843FE883400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94836937-AA0B-4402-B8C3-C843FE883400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11225775-DB45-4523-975F-7090D147CAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11225775-DB45-4523-975F-7090D147CAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11225775-DB45-4523-975F-7090D147CAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11225775-DB45-4523-975F-7090D147CAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{94836937-AA0B-4402-B8C3-C843FE883400} = {5C4D17A0-2BCD-4279-81B0-AA2A657B4DFE}
+		{11225775-DB45-4523-975F-7090D147CAD0} = {F5801324-95A6-4600-8902-767AF1B961DF}
+	EndGlobalSection
+EndGlobal
